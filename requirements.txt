@@ -1,0 +1,14 @@
+# Este es un archivo de dependencias para mi proyecto
+
+flask==3.1.0   # Framework web
+flask-cors==5.0.0  # Soporte para CORS en Flask
+sqlalchemy==2.0.36  # ORM para bases de datos
+python-dotenv==1.0.1  # Cargar variables de entorno desde archivos .env
+opencv-python==4.10.0.84  # Librería de visión por computadora
+deepface==0.0.93  # Reconocimiento facial
+scikit-image==0.24.0  # Procesamiento de imágenes
+mediapipe==0.10.18  # Librería para visión computacional y ML
+ultralytics==8.3.49  # Modelo de YOLO para detección de objetos
+tf-keras==2.18.0  # Keras con soporte para TensorFlow
+gunicorn==23.0.0  # Servidor WSGI para producción
+psycopg2==2.9.10  # Adaptador PostgreSQL para Python
